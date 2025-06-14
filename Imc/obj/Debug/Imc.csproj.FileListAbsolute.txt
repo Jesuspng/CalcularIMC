@@ -1,0 +1,10 @@
+C:\Users\metat\source\repos\Imc\Imc\bin\Debug\Imc.exe.config
+C:\Users\metat\source\repos\Imc\Imc\bin\Debug\Imc.exe
+C:\Users\metat\source\repos\Imc\Imc\bin\Debug\Imc.pdb
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.csproj.AssemblyReference.cache
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.Form1.resources
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.Properties.Resources.resources
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.csproj.GenerateResource.cache
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.exe
+C:\Users\metat\source\repos\Imc\Imc\obj\Debug\Imc.pdb
